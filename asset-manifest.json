@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.72e9f0ac.css",
+    "main.js": "/react-portfolio/static/js/main.9d9ee36d.js",
+    "static/js/787.4729052c.chunk.js": "/react-portfolio/static/js/787.4729052c.chunk.js",
+    "static/media/my-img.jpg": "/react-portfolio/static/media/my-img.8f4f5f8e29a91404b487.jpg",
+    "static/media/me.jpg": "/react-portfolio/static/media/me.3d69b4a66c038fd0b84f.jpg",
+    "static/media/carstore.png": "/react-portfolio/static/media/carstore.2925e3a2c5ac3b493e21.png",
+    "static/media/graduated.png": "/react-portfolio/static/media/graduated.35d35ede3c38ed16ce19.png",
+    "static/media/Resume.docx": "/react-portfolio/static/media/Resume.a2b0e6e6a5bebdca58f3.docx",
+    "static/media/expensessitem.png": "/react-portfolio/static/media/expensessitem.72feb94e428a90d85463.png",
+    "static/media/rockpaper.png": "/react-portfolio/static/media/rockpaper.ca89ccd4c47f2e30c4db.png",
+    "static/media/guessnumber.png": "/react-portfolio/static/media/guessnumber.dcdc574605a5cb5c827e.png",
+    "static/media/simon.png": "/react-portfolio/static/media/simon.c485cc8b63257d952518.png",
+    "static/media/slick.svg": "/react-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-portfolio/index.html",
+    "main.72e9f0ac.css.map": "/react-portfolio/static/css/main.72e9f0ac.css.map",
+    "main.9d9ee36d.js.map": "/react-portfolio/static/js/main.9d9ee36d.js.map",
+    "787.4729052c.chunk.js.map": "/react-portfolio/static/js/787.4729052c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e9f0ac.css",
+    "static/js/main.9d9ee36d.js"
+  ]
+}
