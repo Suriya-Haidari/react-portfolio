@@ -14,7 +14,7 @@ export function GetProjectData() {
       image: p1,
       title: t("project.title1"),
       text: t("project.text1"),
-      github: "https://github.com/SoriaHaidari/expense-item",
+      github: "https://github.com/Suriya-Haidari/expense-item",
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ export function GetProjectData() {
       image: p2,
       title: t("project.title2"),
       text: t("project.text2"),
-      github: "https://github.com/SoriaHaidari/Guess-Number",
+      github: "https://github.com/Suriya-Haidari/Guess-Number",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ export function GetProjectData() {
       image: p3,
       title: t("project.title3"),
       text: t("project.text3"),
-      github: "https://github.com/SoriaHaidari/Car-Store-Project",
+      github: "https://github.com/Suriya-Haidari/Car-Store-Project",
     },
     {
       id: 4,
@@ -38,7 +38,7 @@ export function GetProjectData() {
       image: p4,
       title: t("project.title4"),
       text: t("project.text4"),
-      github: "https://github.com/SoriaHaidari/rock-paper-scissorsgame",
+      github: "https://github.com/Suriya-Haidari/rock-paper-scissorsgame",
     },
     {
       id: 5,
@@ -46,7 +46,7 @@ export function GetProjectData() {
       image: p5,
       title: t("project.title5"),
       text: t("project.text5"),
-      github: "https://github.com/SoriaHaidari/SimonGame",
+      github: "https://github.com/Suriya-Haidari/SimonGame",
     },
   ];
 }
